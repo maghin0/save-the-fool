@@ -1,15 +1,14 @@
-import React from 'react';
-import Button from "./Button";
+import React from "react"
+import Button from "./Button"
 
 const CallToAction = props => {
-
   return (
     <section className="cta">
-      <h1>Try our awesome product.</h1>
-      <p>There&apos;s nothing to lose. 30 days free trial.</p>
+      <h1>Interested? Come join us at _SAVE-THE_FOOL</h1>
+      <p>There&apos;s new hope for the biggest fool market, Egypt.</p>
       <Button label="Get Started" />
     </section>
   )
-};
+}
 
-export default CallToAction;
+export default CallToAction
