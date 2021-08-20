@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `_Save-The_Fool`,
-    description: `A final solution to fight broomrape aka "halook" in Egypt and revive fava-beans aka "fool"`,
+    description: `Save the fool - is a final solution to fight broomrape aka "halook" in Egypt and revive fava-beans aka "fool"`,
     siteUrl: `https://savethefool.gatsbyjs.io/#`,
     author: `@maghin`,
   },
