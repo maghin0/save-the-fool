@@ -1,18 +1,19 @@
 ![landing-logo](https://github.com/btahir/gatsby-landing-page-starter/blob/master/src/assets/landing.png)
+
 <h1>
-  Gatsby Landing Page Starter
+  _SAVE-THE_FOOL - is a website for reproducing "fool" in Egypt.
 </h1>
 
-Live Demo: https://gatsby-landing-page-starter.netlify.app/
+Live website:
 
-Kick off your saas project with this landing page starter template. Built off the main Gatsby starter, it has all the basic Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+Running blazing fast with the blazing fast app generator for React; Gatsby JS.
 
-* Responsive layout
-* SEO optimized
-* Sitemap plugin
-* Offline plugin / PWA out of the box
-* Fast
-  
+- Responsive layout
+- SEO optimized
+- Sitemap plugin
+- Offline plugin / PWA out of the box
+- Fast
+
 <h2>
   Performance Audit
 </h2>
@@ -20,36 +21,7 @@ Kick off your saas project with this landing page starter template. Built off th
     
 ![audit-screenshot](https://github.com/btahir/gatsby-landing-page-starter/blob/master/src/assets/audit.png)
 
-
 All the beautiful illustrations are from https://undraw.co/ and https://pixabay.com/.
-
-## 🚀 Quick start
-
-1.  **Create a Gatsby site.**
-
-    Use the Gatsby CLI to create a new site, specifying the default starter.
-
-    ```shell
-    # create a new Gatsby site using the default starter
-    gatsby new landing-page-starter https://github.com/btahir/gatsby-landing-page-starter
-    ```
-
-1.  **Start developing.**
-
-    Navigate into your new site’s directory and start it up.
-
-    ```shell
-    cd landing-page-starter/
-    gatsby develop
-    ```
-
-1.  **Open the source code and start editing!**
-
-    Your site is now running at `http://localhost:8000`!
-
-    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
-
-    Open the `landing-page-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
 ## 🧐 What's inside?
 
