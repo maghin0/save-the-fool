@@ -17,7 +17,7 @@ const Overview = props => {
             parasitic hash that could result in 100% yield loss in heavily
             infested crops.
           </p>
-          <Button label="Save The Foul" />
+          <a href="mailto:yassershabana2@yahoo.com"> <Button label="Save The Foul" /> </a>
         </div>
         <div className="photo-text">
           <h1>Egypt’s Production & Import of Fava Beans</h1>

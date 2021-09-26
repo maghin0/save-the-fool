@@ -6,7 +6,7 @@ const CallToAction = props => {
     <section className="cta">
       <h1>Interested? Come join us at _SAVE-THE_Foul</h1>
       <p>There&apos;s new hope for the biggest Foul market, Egypt.</p>
-      <Button label="Get Started" />
+      <a href="mailto:yassershabana2@yahoo.com"> <Button label="Get Started" /></a>
     </section>
   )
 }
