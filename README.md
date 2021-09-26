@@ -1,7 +1,7 @@
 ![landing-logo](https://github.com/btahir/gatsby-landing-page-starter/blob/master/src/assets/landing.png)
 
 <h1>
-  _SAVE-THE_FOOL - is a website for reproducing "fool" in Egypt.
+  _SAVE-THE_Foul - is a website for reproducing "Foul" in Egypt.
 </h1>
 
 Live website:

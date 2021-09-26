@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `_Save-The_Fool`,
-    description: `Save the fool - is a final solution to fight broomrape aka "halook" in Egypt and revive fava-beans aka "fool"`,
-    siteUrl: `https://savethefool.gatsbyjs.io/#`,
+    title: `_Save-The_Foul`,
+    description: `Save the Foul - is a final solution to fight broomrape aka "halook" in Egypt and revive fava-beans aka "Foul"`,
+    siteUrl: `https://savetheFoul.gatsbyjs.io/#`,
     author: `@maghin`,
   },
   plugins: [
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `_Save-the_Fool`,
-        short_name: `savethefool`,
+        name: `_Save-the_Foul`,
+        short_name: `savetheFoul`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#675CE2`,
